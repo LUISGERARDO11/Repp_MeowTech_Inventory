@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">appsistema</string>
+    <string name="imgLogo">Logo</string>
+    <string name="txtusuario">Usuario</string>
+    <string name="txtusuario2"> </string>
+    <string name="txtpassword">Password</string>
+    <string name="txtRecupearContrasenia">¿Olvidaste la contraseña?</string>
+    <string name="txtUsuarioRecuperar">Usuario</string>
+    <string name="btnReestablecer">Reestablecer contraseña</string>
+    <string name="txtQuestionS">¿ ?</string>
+    <string name="txtAnswerS">Respuesta</string>
+    <string name="btnAcceso">Acceso</string>
+
+    <string name="lblReestablecerContrasenia">Reestablecer contraseñia</string>
+    <string name="txtSetPassword">Nueva contraseña</string>
+    <string name="lblSetPassword">Nueva contraseña</string>
+    <string name="txtSetConfirmPassword">Confirmar contraseña</string>
+    <string name="lblSetConfirmPassword">Confirmar contraseña</string>
+    <string name="btnRecuperar">Reestablecer contraseña</string>
+
+    <string name="imgProducto">Imagen</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="txtBuscar">Nombre de producto</string>
+    <string name="txtNombre">Nombre producto</string>
+    <string name="txtDescripcion">Descripcion</string>
+    <string name="txtPrecio">Precio</string>
+    <string name="txtPrecioVenta">Precio de venta</string>
+    <string name="txtPrecioCompra">Precio de compra</string>
+    <string name="txtProveedor">Proveedor</string>
+    <string name="txtStock">Stock</string>
+
+    <string name="btnVerDetalles">Ver detalles</string>
+</resources>
